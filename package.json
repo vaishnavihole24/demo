@@ -1,0 +1,10 @@
+{
+    "author":"Vaishnavi Hole",
+    "name":"censorify",
+    "version":"censors words out of text",
+    "main":"censortext",
+    "dependencies":{},
+    "engines": {
+        "node":"*"
+    }
+}
